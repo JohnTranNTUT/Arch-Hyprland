@@ -47,6 +47,19 @@ wlogout
 xdg-user-dirs
 xdg-utils 
 yad
+neovim-nightly-bin
+go
+insync
+fcitx5
+fcitx5-unikey
+fcitx5-rime
+spotify-adblock
+libreoffice-fresh
+npm
+proselint
+xjournalpp-git
+zathura-git
+zathura-pdf-poppler-git
 )
 
 # the following packages can be deleted. however, dotfiles may not work properly
